@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is 1A59-4900
+
+ Directory of C:\Users\Umashree\Desktop\Myproject
+
+12-12-2020  14:08    <DIR>          .
+12-12-2020  14:08    <DIR>          ..
+12-12-2020  14:08                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  288,909,504,512 bytes free
